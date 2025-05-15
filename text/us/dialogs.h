@@ -17,24 +17,24 @@
 #endif
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
-middle of the battlefield.\n\
-You'll find the Power\n\
-Stars that Bowser stole\n\
-inside the painting\n\
-worlds.\n\
-First, talk to the\n\
-Bob-omb Buddy. (Press [B]\n\
-to talk.) He'll certainly\n\
-help you out, and so will\n\
-his " COMRADES " in other\n\
-areas.\n\
-To read signs, stop, face\n\
-them and press [B]. Press [A]\n\
-or [B] to scroll ahead. You\n\
-can talk to some other\n\
-characters by facing them\n\
-and pressing [B]."))
+Hast du das getan?\n\
+Telefonnummer\n\
+Nehmen Sie es einfach! Was ist das\n\
+der Himmel fällt\n\
+Der Stern des Propheten\n\
+live\n\
+Zum ersten Mal mit Freunden\n\
+Rose\n\
+Drücken Sie [B] und \n\
+Hallo\n\
+Deine Freunde\n\
+Laura war sehr hilfsbereit\n\
+Drücken Sie [b].\n\
+Lesen Sie [a] oder [b]\n\
+Sie können die Anweisungen lesen\n\
+Öffnen Sie die Wissenschaftsseite.\n\
+Das ist normal.\n\
+hilf meinem Freund"))
 
 DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
 Watch out! If you wander\n\
